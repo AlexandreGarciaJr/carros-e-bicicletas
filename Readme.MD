@@ -1,6 +1,6 @@
 ### Exercício HTML e CSS
 
-- #### Exercício de estudo de HTML e CSS com layout simples de página de venda com responsividade
+- #### Exercício de estudo de HTML e CSS com página web simples de venda com responsividade
 
 ### Tecnologias:
 
